@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module2
-# Purpose:
+# Name:   easter.py     
+# Purpose: Entertainment 
 #
-# Author:      User
+# Author:      BH0
 #
 # Created:     15/04/2017
 # Copyright:   (c) User 2017
-# Licence:     <your licence>
+# Licence:     <so far, none>
 #-------------------------------------------------------------------------------
 
 # Open File (which stores the shape)
